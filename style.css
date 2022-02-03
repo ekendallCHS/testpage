@@ -1,0 +1,42 @@
+
+body{
+  background-color: #fad9ff;
+}
+h1{
+  text-align: center;
+  color: #b727a1;
+  font-family: monospace;
+  text-decoration-line: underline;
+  border: 5px plum solid;
+  }
+h2{;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #b727a1;
+}
+div{
+  text-align: center;
+
+}
+p{
+  color: #b727a1;
+  font-family:fantasy;
+
+}
+img{
+  align-content: center;
+  height: 340px; 
+  width: 370px;
+}
+a {
+  color: #0c8bf8;
+}
+a:hover {
+  color: #b727a1;
+}
+.warning {
+  color: #0c8bf8;
+}
+.what {
+  color: #eb4585
+}
